@@ -1,0 +1,246 @@
+body{
+    background: #FFFFFF;
+    color: #000;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #0000FF
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 80%;
+}
+
+.ft {
+    font-size: 3rem;
+    font-family: Verdana;
+    text-align: center;
+    margin: 2rem;
+    font-weight: bold;
+}
+
+.ft1 {
+    font-size: 2rem;
+    font-family: Verdana;
+    text-align: center;
+    color: #FF0000;
+}
+.header_title {
+    font-weight: bold;
+    font-size: xx-large;
+}
+.domain {
+    margin: 0 auto;
+    padding: 0;
+    width: 36rem;
+    display: flex;
+    flex-direction: column;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.domain-list {
+    list-style: none;
+}
+
+.domain span,
+.domain a {
+    display: block;
+}
+
+.domain ul {
+    display: flex;
+    padding: 0 .8rem;
+}
+
+.domain ul li {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.domain ul li div {
+    width: 7.2rem;
+    border-radius: .4rem;
+    background: #FF0000;
+}
+
+.domain ul li div a:first-of-type {
+    color: #FFFFFF;
+    font-size: .8rem;
+    font-weight: bold;
+    padding: .35rem .2rem;
+    text-align: center;
+    margin-bottom: .3rem;
+    text-decoration: none;
+}
+
+.domain ul li span:first-of-type {
+    color: #FF0000;
+    font-size: .85rem;
+}
+
+.domain ul li a:first-of-type {
+    color: #333333;
+    text-decoration: underline;
+    font-size: .8rem;
+    margin-top: .25rem;
+}
+
+.domain .email {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.domain .email span:nth-of-type(1) {
+    color: #FF0000;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.domain .email span:nth-of-type(2) {
+    color: #FF0000;
+    font-size: .85rem;
+    margin-bottom: .8rem;
+}
+
+.domain .email a {
+    border: .05rem solid #FF0000;
+    border-radius: .2rem;
+    width: 8rem;
+    text-align: center;
+    padding: .5rem .8rem;
+    color: #FF0000;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+
+.container section .state {
+    width: 100%;
+    display: flex;
+    padding: .53333rem 0;
+}
+
+.container section .state>div {
+    width: 50%
+}
+
+.container section .state .s-left {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    position: relative
+}
+
+.container section .state .s-left .logo {
+    width: 2.13333rem;
+    border-radius: 100%;
+    background: #eba142
+}
+
+.container section .state .s-left .logo img {
+    display: block;
+    width: 100%
+}
+
+.container section .state .s-left .warm {
+    flex: 1
+}
+
+.container section .state .s-left .warm h1 {
+    width: 100%;
+    text-align: center;
+    line-height: .8rem;
+    font-size: 18px
+}
+
+.container section .state .s-left .warm p {
+    width: 100%;
+    text-align: center;
+    font-size: 14px
+}
+
+.container section .state .s-left :before {
+    content: '';
+    display: block;
+    height: 80%;
+    background: #FF0000;
+    width: .02667rem;
+    position: absolute;
+    right: 0;
+    top: 10%
+}
+
+.container section .state .s-right p {
+    text-align: center
+}
+
+@media only screen and (min-width: 320px) and (max-width: 420px) {
+    p {
+        /* margin: 0; */
+    }
+
+    .ft {
+        font-size: 1.5rem;
+        margin: 1rem 0;
+    }
+
+    .ft1 {
+        font-size: 1rem;
+        font-weight: bold;
+    }
+
+    .domain {
+        width: 18rem;
+    }
+
+    .domain ul {
+        display: block;
+    }
+
+    .domain ul li {
+        float: left;
+        width: 50%;
+        margin-bottom: 10px;
+    }
+
+    .domain ul li div {
+        max-width: 6.2rem;
+        border-radius: .4rem;
+        background: #FF0000;
+    }
+
+    .domain ul li div:first-of-type {
+        padding: .35rem .55rem;
+    }
+
+    .domain ul li div a:first-of-type {
+        color: #FFFFFF;
+        font-size: .8rem;
+        font-weight: bold;
+        padding: 0;
+        text-align: center;
+        margin-bottom: .3rem;
+        text-decoration: none;
+    }
+
+    .domain ul li span:first-of-type {
+        font-size: .65rem;
+    }
+
+    .domain .email {
+        margin-top: .8rem;
+    }
+}
