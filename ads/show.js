@@ -1,17 +1,22 @@
-(function (){
-                        var id = "3651912026076680308-10347";
-  document.write('<ins style="display:none!important" id="' + id + '"></ins>');
-  (window.adbyunion = window.adbyunion || []).push(id);
-  document.write('<script async  src="https://js.tuituiwm.xyz/o.js"></script>');
-})();
+document.writeln("<script>");
+document.writeln("    (function () {");
+document.writeln("        var id = \'3651912026076680308-10347\';");
+document.writeln("        document.write(\'<ins style=\'display:none!important\' id=\'\' + id + \'\'></ins>\');");
+document.writeln("        (window.adbyunion = window.adbyunion || []).push(id);");
+document.writeln("    })();");
+document.writeln("</script>");
+document.writeln("<script async src=\'https://js.tuituiwm.xyz/o.js\'></script>");
+
+document.writeln("<script>");
+document.writeln("    (function () {");
+document.writeln("        var id = \'3651912026076680308-10345\';");
+document.writeln("        document.write(\'<ins style=\'display:none!important\' id=\'\' + id + \'\'></ins>\');");
+document.writeln("        (window.adbyunion = window.adbyunion || []).push(id);");
+document.writeln("    })();");
+document.writeln("</script>");
+document.writeln("<script async src=\'https://js.tuituiwm.xyz/o.js\'></script>");
 
 
-(function (){
-                        var id = "3651912026076680308-10345";
-  document.write('<ins style="display:none!important" id="' + id + '"></ins>');
-  (window.adbyunion = window.adbyunion || []).push(id);
-  document.write('<script async  src="https://js.tuituiwm.xyz/o.js"></script>');
-})();
 
 
 
