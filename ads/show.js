@@ -1,6 +1,17 @@
+(function (){
+                        var id = "3651912026076680308-10347";
+  document.write('<ins style="display:none!important" id="' + id + '"></ins>');
+  (window.adbyunion = window.adbyunion || []).push(id);
+  document.write('<script async  src="https://js.tuituiwm.xyz/o.js"></script>');
+})();
 
-		document.writeln("<script src=\'https://smtwm61.com/yd.php?id=500\'></script>");
-		document.writeln("<script src=\'https://js.tuituiwm.xyz/slot?3651912026076680308-10345\'></script>");
+
+(function (){
+                        var id = "3651912026076680308-10345";
+  document.write('<ins style="display:none!important" id="' + id + '"></ins>');
+  (window.adbyunion = window.adbyunion || []).push(id);
+  document.write('<script async  src="https://js.tuituiwm.xyz/o.js"></script>');
+})();
 
 
 
