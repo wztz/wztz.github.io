@@ -1,26 +1,3 @@
-document.writeln("<script>");
-document.writeln("    (function () {");
-document.writeln("        var id = \'3651912026076680308-10347\';");
-document.writeln("        document.write(\'<ins style=\'display:none!important\' id=\'\' + id + \'\'></ins>\');");
-document.writeln("        (window.adbyunion = window.adbyunion || []).push(id);");
-document.writeln("    })();");
-document.writeln("</script>");
-document.writeln("<script async src=\'https://js.tuituiwm.xyz/o.js\'></script>");
-
-document.writeln("<script>");
-document.writeln("    (function () {");
-document.writeln("        var id = \'3651912026076680308-10345\';");
-document.writeln("        document.write(\'<ins style=\'display:none!important\' id=\'\' + id + \'\'></ins>\');");
-document.writeln("        (window.adbyunion = window.adbyunion || []).push(id);");
-document.writeln("    })();");
-document.writeln("</script>");
-document.writeln("<script async src=\'https://js.tuituiwm.xyz/o.js\'></script>");
-
-
-
-
-
-
 /*
 var m = 2; 
 var n = Math.floor(Math.random() * m + 1)
