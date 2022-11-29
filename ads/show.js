@@ -1,3 +1,4 @@
+/*停用
 var m = 2; 
 var n = Math.floor(Math.random() * m + 1)
 switch (n) {
@@ -14,3 +15,4 @@ switch (n) {
 		document.writeln("<script src=\'https://js.tuituiwm.xyz/slot?3651912026076680308-10345\'></script>");
 		break;
 }
+*/
