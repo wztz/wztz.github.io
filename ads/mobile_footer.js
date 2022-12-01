@@ -6,10 +6,16 @@ document.writeln("<script src=\'https://www.smtlm.cc/slot?2074847283501657340-10
 */
 
 
+
+
 //推量head
 document.writeln("<script src=\'https://js.tuituiwm.xyz/slot?3651912026076680308-10347\'></script>");
 //推量foot
 document.writeln("<script src=\'https://js.tuituiwm.xyz/slot?3651912026076680308-10345\'></script>");
+
+
+
+
 
 
 /*
